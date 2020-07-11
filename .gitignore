@@ -1,0 +1,5 @@
+# misc
+.idea/
+__pycache__
+logging
+v_log
